@@ -26,4 +26,3 @@ for column in columns:
     plt.show()
     plt.clf()
 
-"""This is not production ready code at this time"""
