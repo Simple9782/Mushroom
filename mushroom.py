@@ -1,3 +1,4 @@
+"""module for mushroom project"""
 # Imports
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -24,3 +25,5 @@ for column in columns:
     #print(columns)
     plt.show()
     plt.clf()
+
+"""This is not production ready code at this time"""
